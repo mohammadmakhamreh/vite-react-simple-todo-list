@@ -1,5 +1,6 @@
 {
   "name": "simple-todo-app",
+  "homepage": "https://mohammadmakhamreh.github.io/vite-react-simple-todo-list",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +14,7 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^6.4.5",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
